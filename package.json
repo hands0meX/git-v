@@ -1,6 +1,6 @@
 {
   "name": "git-v",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "git visual",
   "main": "dist/index.js",
   "scripts": {
