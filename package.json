@@ -1,6 +1,6 @@
 {
   "name": "@car_han/gitv",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "git visual",
   "main": "dist/index.js",
   "scripts": {
